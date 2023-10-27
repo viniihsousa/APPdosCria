@@ -1,4 +1,4 @@
-# App criado por Mirihan, Pedro Augusto e Vinicius Moreira
+# App criado por Miryhan, Pedro Augusto e Vinicius Moreira
 
 Segue abaixo o link para o vídeo no One Drive do nosso APlicativo
 
